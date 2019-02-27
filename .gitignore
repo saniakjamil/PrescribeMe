@@ -1,0 +1,16 @@
+# NPM packages folder.
+node_modules
+
+# Build files
+dist/
+
+# lock files
+yarn.lock
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional npm cache directory
+.npm
